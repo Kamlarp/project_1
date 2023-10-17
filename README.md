@@ -16,28 +16,38 @@ Therefore we will address the following problems.
 
 ### Conclusion & Recommendation
  
- what are the breakdown% of public transport usage across mode of transportation in Singapore?
-     48% of passenger ridership are buses
-     38% of passenger ridership are MRT
-     12% of passenger ridership are buses
-     2% of passenger ridership are buses
+ 
+ - what are the breakdown% of public transport usage across mode of transportation in Singapore?
+ 
+ 48% of passenger ridership are buses
+ 38% of passenger ridership are MRT
+ 12% of passenger ridership are buses
+ 2% of passenger ridership are buses
+     
+![%breakdown_modetransport](/image/%breakdown_modetransport.png)
 
- What are the trends of public transport usage across mode of transportation? and What are the trends of rainy days and rain volumme across the years?
-     Passenger ridership overall has increase year on year especially for MRT and Bus.
-     ![breakdown_modetransport](/image/breakdown_modetransport.png)
-     while rainy days, average rainvolume per day(mililitre), max rain volume in highest day (mililitre) has flat trend with some flutation over the years.
-     ![rainvolumetrend](/image/rainvolumetrend.png)
-     ![rainydaystrend](/image/rainydaystrend.png)
-     ![breakdown_modetransport](/image/breakdown_modetransport.png)
-   
- Does the rainy days and rain volumes have impact on demand for public transport across mode of transportation?
-    Rainy days and rain volumes has negative impact on demand for public transport across MRT, LRT, bus, and taxi, with heavy impact on MRT, LRT, and bus, and moderate impact on taxi. These difference in impact between mode of transportaion may come from taxi does not required walking distance compared to MRT, LRT, and bus.
-     ![transporttrend](/image/transporttrend.png)
 
- What are recommendation possible from the finding above?
- - operators of MRT, LRT, bus, and taxi should include rain forecast as part of features in transportatin demand prediction.
- - to perform better forecast, daily level data of rain and usage of public transportation are required. 
- - for operators to increase the demand for public transportation, the infrastruce to help prevent the rainfall along the walking distrance to train stations or bus stops are required. we can start this project by looking at the train station and bus stop with high demand during rainy season. or the operators can provide the sales of umbrella or raincoat during rainy season at the bus stops or train station. 
+ - What are the trends of public transport usage across mode of transportation? and What are the trends of rainy days and rain volumme across the years?
+
+Passenger ridership overall has increase year on year especially for MRT and Bus.while rainy days, average rainvolume per day(mililitre), max rain volume in highest day (mililitre) has flat trend with some flutation over the years.
+
+ ![rainvolumetrend](/image/rainvolumetrend.png)
+ ![rainydaystrend](/image/rainydaystrend.png)
+ ![transporttrend](/image/transporttrend.png)
+
+
+ - Does the rainy days and rain volumes have impact on demand for public transport across mode of transportation?
+
+Rainy days and rain volumes has negative impact on demand for public transport across MRT, LRT, bus, and taxi, with heavy impact on MRT, LRT, and bus, and moderate impact on taxi. These difference in impact between mode of transportaion may come from taxi does not required walking distance compared to MRT, LRT, and bus.
+
+![rain&transportcorrelation](/image/rain&transportcorrelation.png)
+
+
+ - What are recommendation possible from the finding above?
+
+1) operators of MRT, LRT, bus, and taxi should include rain forecast as part of features in transportatin demand prediction.
+2) to perform better forecast, daily level data of rain and usage of public transportation are required. 
+3) for operators to increase the demand for public transportation, the infrastruce to help prevent the rainfall along the walking distrance to train stations or bus stops are required. we can start this project by looking at the train station and bus stop with high demand during rainy season. or the operators can provide the sales of umbrella or raincoat during rainy season at the bus stops or train station. 
 
 ---
 
