@@ -24,7 +24,7 @@ Therefore we will address the following problems.
  12% of passenger ridership are buses
  2% of passenger ridership are buses
      
-![ridershipbreakdown_bymodetransport](/image/ridershipbreakdown_bymodetransport.png)
+![breakdown_modetransport](/image/breakdown_modetransport.png)
 
 
  - What are the trends of public transport usage across mode of transportation? and What are the trends of rainy days and rain volumme across the years?
